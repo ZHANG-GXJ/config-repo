@@ -1,3 +1,9 @@
+
+jira:
+  password: HelloWord123-default
+
+---
+
 spring:
   profiles: prod
 jira:
