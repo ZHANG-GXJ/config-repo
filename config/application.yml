@@ -1,0 +1,12 @@
+spring:
+  profiles: prod
+jira:
+  password: HelloWord123-prod
+
+---
+
+
+spring:
+  profiles: dev
+jira:
+  password: HelloWord123-dev
