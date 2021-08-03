@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02c2aef0-d2b5-42b2-acc3-b4e7ced7163f" name="Default Changelist" comment="" />
+    <list default="true" id="02c2aef0-d2b5-42b2-acc3-b4e7ced7163f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,13 +103,28 @@
       <option name="project" value="LOCAL" />
       <updated>1627827612828</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add encrypt secrets">
+      <created>1627890631067</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627890631067</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add encrypt secrets">
+      <created>1627890717116</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627890717116</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add config file" />
     <MESSAGE value="add config file yml" />
     <MESSAGE value="change config" />
-    <option name="LAST_COMMIT_MESSAGE" value="change config" />
+    <MESSAGE value="add encrypt secrets" />
+    <option name="LAST_COMMIT_MESSAGE" value="add encrypt secrets" />
   </component>
 </project>
