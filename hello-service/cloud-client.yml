@@ -1,6 +1,6 @@
 
 jira:
-  password: {cipher}ebbfb1f30e522defefb15c31fd983e134adba0839b07b4101459ef4c7222685a
+  password: '{cipher}ebbfb1f30e522defefb15c31fd983e134adba0839b07b4101459ef4c7222685a'
 
 ---
 
